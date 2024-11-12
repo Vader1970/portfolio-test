@@ -130,7 +130,7 @@ export const testimonials = [
   },
   {
     quote:
-      "I approached Michele to help me design a website that will improve my conversion rates. I was impressed with Her level of professionalism and quick turnaround. I was so impressed with my new site which now has seamless conversions from prospective clients! Highly recommend using Michele for your next project.",
+      "I approached Michele to help me design a website that will improve my conversion rates. I was impressed with her level of professionalism and quick turnaround. I was so impressed with my new site which now has seamless conversions from prospective clients! Highly recommend using Michele for your next project.",
     name: "Roimata",
     image: "/roi.png",
     title: "Burst Digital",
